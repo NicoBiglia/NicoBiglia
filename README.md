@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoBiglia
+- 👋 Hello World, I’m @NicoBiglia !
 - 👀 I’m interested in software development and learning new tecnologies!
 - 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to work on a Trainee position of Fullstack Java or Javascript Web Development, im looking to growh on my profesional career!
