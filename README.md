@@ -6,6 +6,9 @@
         LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-biglia-855aa420b/ 
         Email : nicolasbiglia@hotmail.com
         Instagram: @nico.biglia
+       
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NicoBiglia/NicoBiglia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
